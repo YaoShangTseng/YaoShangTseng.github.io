@@ -3,17 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://yaoshangtseng.github.io/2019-05-30/</loc>
+    <lastmod>2019-05-30T08:01:44+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yaoshangtseng.github.io/</loc>
+    <lastmod>2019-05-30T08:01:44+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://yaoshangtseng.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://yaoshangtseng.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yaoshangtseng.github.io/</loc>
     <priority>0</priority>
   </url>
   

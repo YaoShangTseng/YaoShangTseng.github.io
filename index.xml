@@ -6,9 +6,21 @@
     <description>Recent content on YakuShou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 30 May 2019 08:01:44 +0800</lastBuildDate>
     
 	<atom:link href="https://yaoshangtseng.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Markdown Cheatsheet</title>
+      <link>https://yaoshangtseng.github.io/2019-05-30/</link>
+      <pubDate>Thu, 30 May 2019 08:01:44 +0800</pubDate>
+      
+      <guid>https://yaoshangtseng.github.io/2019-05-30/</guid>
+      <description>Hi there, this is my first post in blog.
+And I&amp;rsquo;d like to recap some markdown syntax in the first post.
+Headers # H1 ## H2 ### H3 #### H4 ##### H5 ###### H6  H1 H2 H3 H4 H5 H6 Emphasis *asterisks* or _underscores_ **asterisks** or __underscores__ **asterisks and _underscores_** ~~Scratch this.~~  asterisks or underscores  asterisks or underscores  asterisks and underscores  Scratch this.</description>
+    </item>
     
   </channel>
 </rss>
